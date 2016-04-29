@@ -1,4 +1,5 @@
 # andyttang.github.io
+# Andy Tang - Computer Science Major
 
 A portfolio used to display myself.
 
