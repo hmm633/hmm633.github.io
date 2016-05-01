@@ -1,5 +1,5 @@
-# Andy Tang - Computer Science Major
+# Heriberto Macias
 
-A portfolio used to display myself.
+For now, I'm using this page to advertise my Android application called Life Point Counter
 
-Used as a continuous project.
+I may consider changing this page to become a personal portfolio later.
